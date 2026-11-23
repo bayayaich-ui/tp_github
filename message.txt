@@ -1,1 +1,1 @@
-Bienvenue dans notre application de rendez-vous.
+Bienvenue dans notre application de gestion de rendez-vous.
